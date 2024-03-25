@@ -1,0 +1,173 @@
+{
+  "name": "list",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 13,
+    "minor": 1,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://polygonscan.com/images/svg/brands/polygon.svg",
+  "tokens": [
+    {
+      "chainId": 80001,
+      "address": "0x97276399d28943dcc98b801a7EF0db647B8fB0bD",
+      "name": "wMatic",
+      "symbol": "wMatic",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/matic-network-matic-logo.svg?v=006"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x332C7aC34580dfEF553B7726549cEc7015C4B39b",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=006"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x3861e9F29fcAFF738906c7a3a495583eE7Ca4C18",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=006"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x0aCBd07e458F228d4869066b998a0F55F36537B2",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://seeklogo.com/images/T/tether-usdt-logo-FA55C7F397-seeklogo.com.png"
+    },
+    {
+      "chainId": 43113,
+      "address": "0xfac979b2C4Ca8e279BbA74E24E016f2a4Df42524",
+      "name": "WAVAX",
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "logoURI": "https://traderjoexyz.com/static/media/avalanche_token_round.3e178e42.png"
+    },
+    {
+      "chainId": 43113,
+      "address": "0x332C7aC34580dfEF553B7726549cEc7015C4B39b",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=006"
+    },
+    {
+      "chainId": 43113,
+      "address": "0x3861e9F29fcAFF738906c7a3a495583eE7Ca4C18",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=006"
+    },
+    {
+      "chainId": 43113,
+      "address": "0x0aCBd07e458F228d4869066b998a0F55F36537B2",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://seeklogo.com/images/T/tether-usdt-logo-FA55C7F397-seeklogo.com.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1668148663"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1668148663"
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1668148663"
+    },
+    {
+      "chainId": 137,
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1668148663"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "name": "Tether Avalanche Bridged  USDT e ",
+      "symbol": "USDTE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/24189/thumb/Usdt.e.png?1646819144"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1668148663"
+    },
+    {
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "chainId": 1,
+      "name": "TetherUSD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+    },
+    {
+      "chainId": 90354,
+      "address": "0x945eF9D1dAC30Fdb1Dae20b5396889668da6FEc5",
+      "name": "Campaign Token",
+      "symbol": "Campaign",
+      "decimals": 18,
+      "logoURI": "https://www.campnetwork.xyz/src/images/logo.png"
+    },
+    {
+      "chainId": 90354,
+      "address": "0x8f11533a7c255B4E2A19BB7AfBF387b797cBAA44",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png"
+    },
+    {
+      "chainId": 90354,
+      "address": "0x45eD3Ed461b15C624b03d32a6399f6C7dE52Aa08",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=006"
+    },
+    {
+      "chainId": 90354,
+      "address": "0xdAbeB2e9F24441D346D327EBb211640D13650Da3",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=006"
+    },
+    {
+      "chainId": 90354,
+      "address": "0x77F76faC7BdA1e1d66Cc65A6F136300a31EaE32E",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://seeklogo.com/images/T/tether-usdt-logo-FA55C7F397-seeklogo.com.png"
+    }
+  ]
+}
